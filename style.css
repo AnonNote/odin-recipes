@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(205, 236, 255);
+}
+
+.recipe-link {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+#OdinRecipe {
+    font-size: 50px;
+    font-family: sans-serif;
+    color: darkblue;
+    text-align: center;
+}
+
+.bread {
+    color: rgb(141, 92, 28);
+}
+
+.cake {
+    color: rgb(231, 51, 81);
+}
+
+.lemonade {
+    color: rgb(148, 148, 26);
+}
